@@ -12,8 +12,7 @@
     </author>
 
     <icon src="icone.png" />
-    <plugin name="cordova-plugin-splashscreen" />
-    <splash src="splash.png" />
+    <gap:splash src="splash.png" />
 
     <!--<preference name="orientation" value ="portrait" /> para previnir rotação de tela-->
     <!--<preference name="fullscreen" value ="true"> para full screen-->
