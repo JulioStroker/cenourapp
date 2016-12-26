@@ -6,7 +6,8 @@
         Menu do restaurante Só de Cenoura App teste!
     </description>
     <author href="" email="juliorenan@live.com">
-    Julio Pinheiro
+        Julio Pinheiro
     </author>
-
+    <icon src="icone.png" />
+    <gap:splash src="splash.png">
 </widget>
