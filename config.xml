@@ -1,0 +1,7 @@
+<?xml version="1.0" enconding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" version="1.0.0" id="org.kensei.cenouraapp">
+
+    <name>Ma Oiiii</name>
+    <description>Menu do Rest</description>
+    <author href="www.linkedin.com/in/juliorspinheiro" email="juliorenan@live.com">Julio Pinheiro</author>
+</widget>
