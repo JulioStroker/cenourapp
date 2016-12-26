@@ -1,16 +1,6 @@
-<?xml version="1.0" enconding="UTF-8"?>
-<!--<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" version="1.0.0" id="org.kenseix.cenouraapp">-->
-<!--<widget id="com.example.app" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" -->
-<widget id="org.kensei.cenouraapp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/1.0">
-    <name>
-        Ma Oiiii
-    </name>
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
 
-    <description>
-        Menu do Rest
-    </description>
+    <name>Só de Cenoura</name>
 
-    <author href="http://www.linkedin.com/in/juliorspinheiro" email="juliorenan@live.com">
-        Julio Pinheiro
-    </author>
 </widget>
