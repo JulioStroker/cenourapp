@@ -2,5 +2,11 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
 
     <name>Só de Cenoura</name>
+    <description>
+        Menu do restaurante Só de Cenoura App teste!
+    </description>
+    <author href="" email="juliorenan@live.com">
+    Julio Pinheiro
+    </author>
 
 </widget>
